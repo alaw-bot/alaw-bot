@@ -76,4 +76,9 @@ G.C.E O/L 2015
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaw-bot&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+## 💻 Most Used Languages (All Projects)
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
