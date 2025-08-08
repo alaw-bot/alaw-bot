@@ -66,5 +66,14 @@ G.C.E O/L 2015
 🌐 **Portfolio**: [alaw-bot.github.io/portfolio](https://alaw-bot.github.io/portfolio)
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alaw-bot&show_icons=true&theme=radical" alt="alaw-bot's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaw-bot&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 
