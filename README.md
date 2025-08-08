@@ -66,19 +66,4 @@ G.C.E O/L 2015
 🌐 **Portfolio**: [alaw-bot.github.io/portfolio](https://alaw-bot.github.io/portfolio)
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alaw-bot&show_icons=true&theme=radical" alt="alaw-bot's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaw-bot&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-## 💻 Most Used Languages (All Projects)
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
