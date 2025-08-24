@@ -14,7 +14,7 @@ I’m a final-year Computer Engineering undergraduate specializing in Data Manag
 
 🏛️ **University of Sri Jayewardenepura, Sri Lanka**  
 *B.Sc. in Engineering (Hons), Computer Engineering*  
-📅 2021 - Present | 📊 GPA: 3.31  
+📅 2021 - Present | 📊 GPA: 3.40 
 
 🏫 **Maliyadeva College, Kurunegala**  
 G.C.E A/L 2019 (Physical Science Stream)  
